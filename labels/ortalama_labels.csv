@@ -1,0 +1,11 @@
+Description,labels
+HAZIRLIĞIM,-1
+NOT ORTALAMASI YOK,-2
+ORTALAMA BULUNMUYOR,-3
+3.50 - 4.00 veya 4.0 - 3.5,1
+3.00 veya 3.00 - 3.50,2
+2.50 veya 2.50 - 3.00,3
+2.00 veya 2.00 - 2.50,4
+1.00 veya 1.00 - 2.50,5
+0 - 1.79,6
+Bilinmeyen veya diğer durumlar,6
